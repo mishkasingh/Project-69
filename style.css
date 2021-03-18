@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p {
+    font-size: 17px;
+}
+#contact us {
+    background-color: firebrick;
+}
+#contact us iframe{
+    width: 100%;
+    
+}
+.contact_1 h3{
+    display: inline;
+}
+
+#campus life iframe {
+    width: 80%;
+
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+input {
+    background: grey;
+}
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: cornflowerblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+.school_mainDiv{
+   border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+   float: none;
+    
+}
+
